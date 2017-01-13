@@ -3,6 +3,7 @@ There are two moons, which may be a problem for wolfman.
 The Mummy will appreciate the lack of any humidity.
 Overall, Mars may be a good fit
 Wrapping up exploration. moving on to venus.
+<<<<<<< HEAD
 
 
-this is david writing. 
+this is david writing.
